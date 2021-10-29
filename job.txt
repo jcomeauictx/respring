@@ -1,0 +1,1 @@
+rewrite my respring app using this knowledge: http://www.engadget.com/2008/01/23/how-web-clips-work/, in particular: launchctl stop com.apple.SpringBoard
